@@ -1,0 +1,10 @@
+0,Fill in the blank: Two objects will have unique _(1)_ because they have different _(2)_ even though they have the same states.,1,identities; addresses,behaviours; identities,identities; addresses,addresses; identities,fields; behaviours
+1,Complete the code: AnimalClass newObject = ____ AnimalClass("Duo");,2,new,null,null,null,null
+2,Which of the following does NOT belong in a class file?,1,Retriever Methods,Utility Methods,Setter Methods,Constructor,Retriever Methods
+3,Which keyword/piece of code is known as the class name: Library book = new Library("Harry Potter");,2,Library,null,null,null,null
+4,You have an object named "Dog" with a field called "breed." Write the code for how you would get the breed of the object.,2,Dog.getBreed();,null,null,null,null
+5,Which of the following is the definition of an object's behaviour:,1,Known as an object’s actions; Defined by its methods.,Represented by the data fields of the object with their current values.,Known as an object’s actions; Defined by its methods.,What makes an object unique!,All of the above.
+6,Type in the keyword/piece of code is an error: public void setColour(String species) {this.colour = colour;},2,species,null,null,null,null
+7,How do you invoke the utility methods of an object?,1,Using the dot operator,Using the dot operator,Passing it as an argument,Using the comma operator,It varies
+8,Which of the following is a parameter in the constructor header: public AnimalClass(String name),1,name,public,AnimalClass,String,name
+9,The purpose of a constructor is to:,1,Provide data to instance variables,Create a class,Provide data to instance variables,Provide implementation to instance methods,Help variables of a class become universal to other classes
