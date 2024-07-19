@@ -6,12 +6,6 @@ Where Animal Crossing meets Super Mario Bros! Jump, run, and teleport through th
 
 - Java
 
-## Key Features
-
-- 🎮 **Smooth Player Animations**: Implemented keyboard listeners for movements like walking, jumping, and teleportation.
-- 🗺️ **Custom Maps**: Designed and implemented maps featuring interactive elements such as walls, jumping platforms, and portals.
-- 🏆 **Game Functionality**: Integrated character selection, account creation, game progress saving, and leaderboard features.
-
 ## Technical Breakdown
 
 - **Player Animations**: Developed smooth animations for player actions using keyboard listeners.
